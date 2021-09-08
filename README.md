@@ -1,4 +1,4 @@
 - 👋 Hi, I’m aayush shukla
-- 👀 I’m interested in Swift and iOS app debelopement along with cyber security
+- 👀 I’m interested in Swift and iOS app developement along with cyber security
 - 🌱 I’m currently learning cyber security penetration testing methods
 - 📫 Reach me at aayushshukla81@gmail.com
